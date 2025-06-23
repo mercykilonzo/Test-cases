@@ -1,0 +1,20 @@
+{
+  "name": "test-cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dashboardLogin.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercykilonzo/Test-cases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mercykilonzo/Test-cases/issues"
+  },
+  "homepage": "https://github.com/mercykilonzo/Test-cases#readme"
+}
