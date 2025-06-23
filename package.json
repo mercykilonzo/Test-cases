@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mercykilonzo/Test-cases/issues"
   },
-  "homepage": "https://github.com/mercykilonzo/Test-cases#readme"
+  "homepage": "https://github.com/mercykilonzo/Test-cases#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
 }
